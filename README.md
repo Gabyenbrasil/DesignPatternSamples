@@ -1,3 +1,8 @@
+#Curso da DIO em parceria com a Avanade Aplicando design patterns na prática com C# apresentado por Victor Fructuoso.
+
+Foram apresentdos os conceitos do Design patterns, os principios do S.O.L.I.D. e modelos práticos com WebAPI REST .NET Core.
+
+
 # DesignPatternSamples
 |Branch|Build|
 |-:|-|
